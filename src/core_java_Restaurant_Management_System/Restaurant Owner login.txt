@@ -1,0 +1,3 @@
+For Restaurant Owner login please use this login details.
+username - Onkar
+password - 1234

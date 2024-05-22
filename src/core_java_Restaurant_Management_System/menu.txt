@@ -1,7 +1,0 @@
-Tea	40/-
-Coffee 50
-Cold-Coffee 70
- Fries 80
-Sandwich 120
- Burger	72
-  Pizza	150
