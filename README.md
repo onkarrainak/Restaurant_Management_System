@@ -1,5 +1,5 @@
+The application serves as a practical example of Java concepts such as object-oriented programming, file handling, exception handling, and user interface design.
 # Restaurant_Management_SystemIt has two modules :
-
 1) Owner
 2) Customer
 
