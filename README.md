@@ -3,6 +3,7 @@ The application is a practical example of Java concepts such as object-oriented 
 It has two modules :
 1) Owner
 2) Customer
+
 The owner can add, delete, and update the menu items and the customer can order food on the menu. 
 A bill is also generated for customers which includes the total amount with GST.
 
